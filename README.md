@@ -12,4 +12,3 @@ This repo can be cloned by using: *`git clone git@github.com:Shake-Ghairbyan/epa
   - created an empty folder: *`mkdir empty_folder`*
   - added .gitkeep file to the empty folder: *`touch empty_folder/.gitkeep`*
   - configured .gitignore file: *`touch .gitignore`*
-  - specified which types of files should be ignored: *`vim .gitignore`*
